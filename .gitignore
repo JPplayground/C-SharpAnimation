@@ -40,3 +40,4 @@ $RECYCLE.BIN/
 *.log
 *.swp
 .DS_Store
+.idea/
