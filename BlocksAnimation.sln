@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlocksAnimation", "BlocksAnimation.csproj", "{8EA7088C-5DA0-4450-B306-18F2E5485D6E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlocksAnimation", "BlocksAnimation/BlocksAnimation.csproj", "{8EA7088C-5DA0-4450-B306-18F2E5485D6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
