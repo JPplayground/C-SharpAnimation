@@ -7,6 +7,3 @@ The BlocksAnimation project is a WPF application that creates a grid of rectangl
 ## Demo GIF
 
 <img alt="Demo Video" src="./res/demo.gif"/>
-
-## Animation Logic
-The animation involves filling and clearing a 10x10 grid of rectangles. The application uses a timer to update the animation at set intervals.
